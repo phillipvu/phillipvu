@@ -2,7 +2,7 @@
 
 **Signal processing & navigation systems engineer** — radar, GNSS, sensor fusion, and real-time DSP, with a focus on taking estimation algorithms from prototype to GPU-accelerated, real-time implementations.
 
-PhD in radar/estimation · IEEE Senior Member · Thousand Oaks, CA
+PhD in radar/estimation · IEEE Senior Member · San Diego, CA
 
 ---
 
